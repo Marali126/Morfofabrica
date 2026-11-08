@@ -1,0 +1,6 @@
+{
+  "name": "Morfofábrica - Mara Daher",
+  "description": "Plataforma de consciência morfológica e intervenção fonoaudiológica por Mara Daher (Linguagem e Aprendizagem). Inclui bases pré-selecionadas, decomposição morfêmica, parentesco relacional e fechamento sintático.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
